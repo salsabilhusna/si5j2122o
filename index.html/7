@@ -1,0 +1,11 @@
+NIM = 1922500106
+Nama = Salsabil Husna
+Kelompok = SI5J
+Pada pertemuan 1 tanggal 11 Oktober 2021, saya dapat menyimpulkan antara lain:
+Tata tertib perkuliahan dan platform pembelajaran yang digunakan
+Ciri khas website dengan CMS Wordpress
+Cara menginstall wordpress menggunakan wordpress zip yang di download dari web wordpress.org dan diextract untuk mendapatkan folder wordpress
+Folder wordpress dapat direname menjadi apapun, misalnya nama kelompok si5j2122o
+Folder si5j2122o di taruh di dalam htdocs pada xampp dan diakses melalui URL http://localhost/si5j2122o
+Cara membuat database, dan juga export import database
+Cara membackup file dan merestore aplikasi wordpress
